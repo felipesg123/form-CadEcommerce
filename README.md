@@ -23,3 +23,7 @@
 
 ## Campos identificados no cadastro desse site:  campos de campo intuitivo para apontar os 
 ## processos da compra, campo de tipo de conta entre pessoa física e jurídica 
+
+### Os sites acima servirão de base para essa página  de cadastro 
+
+### com isso foi adicionado alguns campos ao projeto   final 
