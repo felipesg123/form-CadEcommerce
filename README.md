@@ -27,3 +27,13 @@
 ### Os sites acima servirão de base para essa página  de cadastro 
 
 ### com isso foi adicionado alguns campos ao projeto   final 
+
+# 🔴4º documentação do site no jeral:
+
+## as ferramentas utilizadas forram: 
+
+### botstrap,,html 5 , sites de pesquisa 
+
+## conclusão :
+
+### este trabalho tem como finalidade a criação de um formulario mais um site de cadastros com sua entrega no git
